@@ -86,3 +86,32 @@ How to use Redux in Functional Component ?
 What is Redux Thunk and Redux Saga
 
 how to test Your Component ?
+
+*******************************************************
+
+What is JSX, and how does it relate to React?
+Why was JSX created, and what benefits does it offer over traditional HTML templating?
+How do you integrate JSX with React, and what additional tools might you need to get started?
+What is Babel, and what is its purpose in the React development process?
+Can you walk me through how Babel converts a JSX element into a React element?
+What are some of the rules that you should follow when creating a JSX element?
+How do you add styles to a JSX element, and what is the difference between the "style" and "className" properties?
+How do you bind variable data with JSX elements, and what are some examples of different data types that you can bind?
+Can you create a function that returns a JSX element, and show me how to call that function using the element format?
+How does rendering a React component differ from rendering a traditional HTML element?
+How do you pass dynamic data to a function and bind it to a JSX element?
+What are some best practices for reusing functions and JSX elements in your code?
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+What is React, and what is its purpose?
+What are some of the main reasons why developers choose to use React?
+Can you name some of the features that make React a popular choice among developers?
+How do you add React to an HTML page?
+What is a React element, and how does it differ from a regular HTML element?
+Can you walk me through the process of creating a basic React element using the createElement() method?
+Let's say you want to create a div element in React. What would be the code syntax for creating this element?
+After creating a React element, how do you append it to the DOM using ReactDOM?
+How would you create a paragraph element inside a div element using React?
+Can you provide an example of how to add attributes to a React element?
+How would you create an image element in React with a specified source, width, and height attribute?
